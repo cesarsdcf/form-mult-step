@@ -49,6 +49,7 @@ export const Container = styled.div`
     border: 0;
     border-radius: 15px;
     margin-top: 20px;
+    cursor:pointer;
   }
 
 
