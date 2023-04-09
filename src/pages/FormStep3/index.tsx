@@ -68,7 +68,7 @@ const FormStep3 = () => {
 
 
         <Link className="backButton" to="/step2">Voltar</Link>
-        <button onClick={handleNextStep}>Próximo</button>
+        <button onClick={handleNextStep}>Console.log</button>
         </C.Container>
     </Theme>
   );
